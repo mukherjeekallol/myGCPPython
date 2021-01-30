@@ -4,7 +4,7 @@ steps:
       - functions
       - deploy
       - hellopips
-      - --source=.
+      - --source=./kmcloudbuild
       - --trigger-http
       - --runtime=python37
       - --allow-unauthenticated
