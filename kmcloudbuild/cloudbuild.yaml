@@ -3,7 +3,7 @@ steps:
     args:
       - functions
       - deploy
-      - hello_world
+      - hellopips
       - --source=.
       - --trigger-http
       - --runtime=python37
